@@ -1,2 +1,2 @@
-ism='ali'
+ism='vali'
 print(ism)
